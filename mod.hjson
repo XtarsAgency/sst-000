@@ -1,0 +1,17 @@
+name: "sst-000"
+repo: "xtarsagency/sst-000"
+minGameVersion: 136
+version: "1"
+
+displayName: "Station 000(WIP)"
+author: "[red[]]Xtarsagency"
+subtitle: "Feel Watched?"
+description:
+  
+'''
+A space-themed unsettling exploration mod
+player discretion is advised.
+'''
+
+dependencies: []
+hideBrowser: false
