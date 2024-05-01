@@ -7,4 +7,15 @@ itemCapacity: 10
 unitCapModifier: 1
 unitType: "explorer"
 incinerateNonBuildable: true
-isFirstTier: true
+
+requirements: [
+    "copper/40"
+"lead/20"
+]
+
+research: {
+    root: true
+    name: @sst-techtree
+}
+
+alwaysUnlocked: true
