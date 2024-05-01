@@ -1,7 +1,7 @@
 name: Explorer
 description: It's You.
 
-type: tank
+type: hover
 health: 80
 armor: 0
 hitSize: 5
