@@ -1,0 +1,10 @@
+type: CoreBlock
+category: effect
+health: 10
+size: 1
+
+itemCapacity: 10
+unitCapModifier: 1
+unitType: "explorer"
+incinerateNonBuildable: true
+isFirstTier: true
