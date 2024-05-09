@@ -4,13 +4,13 @@ minGameVersion: 136
 version: "1"
 
 displayName: "Station 000(WIP)"
-author: "[red[]]Xtarsagency"
-subtitle: "Feel Watched?"
+author: "[scarlet[]]XSA"
+subtitle: "We Are Here"
 description:
   
 '''
-A space-themed unsettling exploration mod
-player discretion is advised.
+Cave Crawler inspired mod?
+really, its a simple horror mod
 '''
 
 dependencies: []
