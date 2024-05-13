@@ -1,4 +1,7 @@
-name: Large Door
-type: Wall
-size: 2
-health: 1
+{
+  "name": "Locked Door",
+  "type": "Wall",
+  "hidden": true,
+  "size": 2,
+  "health": 200
+}

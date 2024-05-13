@@ -1,16 +1,16 @@
-name: Explorer
-description: It's You.
-
-type: hover
-health: 80
-armor: 0
-hitSize: 5
-itemCapacity: 4
-fogRadius: 2
-
-speed: 0.3
-accel: 0.25
-drag: 0.015
-rotateSpeed: 2
-
-outlineColor: 2d2f39
+{
+  "name": "Explorer",
+  "description": "It's You.",
+  "type": "hover",
+  
+  "health": 150,
+  "armor": 0,
+  "hitSize": 5,
+  "itemCapacity": 4,
+  "fogRadius": 2,
+  "speed": 0.3,
+  "accel": 0.25,
+  "drag": 0.015,
+  "rotateSpeed": 2,
+  "outlineColor": "2d2f39"
+}
