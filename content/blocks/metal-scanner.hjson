@@ -1,0 +1,17 @@
+{
+  "name": "Metal Wall",
+  "type": "PowerTurret",
+  "hidden": "True,",
+  "health": 200,
+  "size": 1,
+  "targetAir": true,
+  "targetGround": true,
+  "reload": 100,
+  "shots": 11,
+  "range": 20,
+  "inaccuracy": 1,
+  "shootType": {
+    "type": "MissileBulletType"
+  },
+  "category": "turret"
+}
