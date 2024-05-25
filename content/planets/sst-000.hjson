@@ -1,0 +1,76 @@
+generator: SerpuloPlanetGenerator
+parent: sun
+iconColor: b0bac0
+orbitRadius: 35
+hasAtmosphere: false
+updateLighting: false
+atmosphereRadIn: 0
+atmosphereRadOut: 0.8
+atmosphereColor: 00000000
+drawOrbit: true
+
+accessible: true
+alwaysUnlocked: false
+defaultCore: "anchor"
+sectorSeed: 0
+startSector: 1
+sectorSize: 0.5
+
+clearSectorOnLose: true
+allowSectorInvasion: false
+allowLaunchToNumbered: false
+
+cloudMesh: {
+    type: HexSkyMesh
+    planet: sst-000
+    seed: 0
+    speed: 0
+    radius: 0
+    divisions: 3
+    color: 00000000
+    octaves: 0
+    persistence: 1
+    scl: 0
+    thresh: 0
+}
+
+	
+
+mesh: {
+    type: NoiseMesh
+    planet: sst-000
+    seed: 331060
+    color1: 3d3d3d
+    color2: 3d3d3d
+    divisions: 1
+    radius: 0.4
+    octaves: 0
+    persistence: 1
+    scl: 0
+    mag: 0
+}
+
+hiddenItems: [
+    "copper"
+    "lead"
+    "scrap"
+    "graphite"
+    "coal"
+    "titanium"
+    "thorium"
+    "silicon"
+    "plastanium"
+    "phase-fabric"
+    "surge-alloy"
+    "spore-pod"
+    "sand"
+    "blast-compound"
+    "pyratite"
+    "metaglass"
+    "beryllium"
+    "oxide"
+    "tungsten"
+    "carbide"
+    "fissile-matter"
+    "dormant-cyst"
+]
