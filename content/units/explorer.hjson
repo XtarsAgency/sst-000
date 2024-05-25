@@ -1,8 +1,5 @@
 {
-  "name": "Explorer",
-  "description": "It's You.",
   "type": "hover",
-  
   "health": 150,
   "armor": 0,
   "hitSize": 5,
