@@ -10,8 +10,9 @@ unitType: "explorer"
 incinerateNonBuildable: true
 fogRadius: 4
 
-requirements: [
-    "copper/40"
-"lead/20"
-]
-alwaysUnlocked: true
+research: {
+    root: true
+    name: @s-techtree
+	planet: sst-000
+}
+alwaysUnlocked: false
