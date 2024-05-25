@@ -1,6 +1,4 @@
 {
-  "name": "Scrap Wall",
-  "type": "PowerTurret",
   "hidden": "True,",
   "health": 200,
   "size": 1,
