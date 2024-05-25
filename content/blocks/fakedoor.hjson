@@ -1,4 +1,6 @@
-type: Wall
-hidden: true
-size: 2
-health: 200
+{
+"type": "Wall",
+"hidden": "true",
+"size": "2",
+"health": "200",
+}
